@@ -7,6 +7,7 @@
 /nbproject/private/
 /node_modules/
 /bower_components/
+/routes/mysql.js
 ad.js
 TODO
 test.html
