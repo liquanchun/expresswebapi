@@ -26,7 +26,7 @@ var mysql=require("mysql");
 var pool = mysql.createPool({
     host: '120.25.151.96',
     user: 'root',
-    password: 'qwer1234',
+    password: '********',
     database: 'stockinfo',
     port: 3306
 });
